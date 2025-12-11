@@ -75,18 +75,24 @@
         "category_id": "oilaviy_dostlik"
       },
       {
-        "poem_id": "ayting_siz_ham",
-        "title": "Ayting, siz ham.",
+        "poem_id": "forsiy_qiz",
+        "title": "Forsiy qiz.",
         "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/forsiy_qiz.txt",
         "poem_emoji": "🇮🇷 🙋‍♀️",
         "category_id": "oilaviy_dostlik"
       },
       {
-        "poem_id": "forsiy_qiz",
-        "title": "Forsiy qiz",
+        "poem_id": "ayting_siz_ham",
+        "title": "ayting_siz_ham",
         "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/ayting_siz_ham.txt",
         "poem_emoji": "🗣️",
         "category_id": "oilaviy_dostlik"
+      }
+      {
+        "poem_id": "yurak_tanazzuli",
+        "title": "Yurak Tanazzuli",
+        "file": "https://raw.githubusercontent.com/biosteenyc/abdulhakim_sherlari/master/documents/oilaviy_dostlik/yurak_tanazzuli",
+        "poem_emoji": "💔🚫",
       }
     ]
   },
